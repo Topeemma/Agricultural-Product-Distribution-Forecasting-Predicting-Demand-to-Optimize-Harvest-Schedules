@@ -1,0 +1,2 @@
+# Agricultural-Product-Distribution-Forecasting-Predicting-Demand-to-Optimize-Harvest-Schedules
+The project predicts, Key findings include the influence of seasonality and weather on demand. Recommendations: align harvest schedules, diversify products, enhance data collection, and use RandomForestRegressor for the best performance. Tech Stack: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Statsmodels, Prophet, ARIMA, Scikit-learn.
